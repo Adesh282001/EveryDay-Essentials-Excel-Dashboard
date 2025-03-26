@@ -10,6 +10,10 @@ The objective of this dashboard is to analyze key business metrics such as sales
 EveryDay Essentials - https://github.com/Adesh282001/EveryDay-Essentials-General-Store/blob/main/EveryDay%20Essentials%20Data%20Analysis.xlsx
 
 
+## **Dashboard**
+![image](https://github.com/user-attachments/assets/89e19937-b206-41c4-ab68-c682a674b0c9)
+
+
 ## **❓ Key Questions Addressed**  
 🔢 What are the sales trends across different months?  
 📦 What is the distribution of order statuses?  
