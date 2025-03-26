@@ -1,4 +1,4 @@
-**🛒EveryDay Essentials General Store**
+## **🛒EveryDay Essentials General Store**
 
 ## **🎯 Project Objective**  
 The objective of this dashboard is to analyze key business metrics such as sales performance, order trends, customer demographics, and order statuses. These insights help organizations make informed decisions regarding sales strategies, customer engagement, and operational efficiency.  
