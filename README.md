@@ -7,7 +7,7 @@ The objective of this dashboard is to analyze key business metrics such as sales
 
 ## **📂 Dataset Used**  
  
-
+EveryDay Essentials - https://github.com/Adesh282001/EveryDay-Essentials-General-Store/blob/main/EveryDay%20Essentials%20Data%20Analysis.xlsx
 
 
 ## **❓ Key Questions Addressed**  
